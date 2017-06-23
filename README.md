@@ -8,3 +8,5 @@ curl --request PUT -H 'Content-Type: application/octet-stream' --data-binary "@L
 
 download
 curl http://localhost:3000/images/1/download > icon_downloaded4.png
+
+現状一つのみに対応している
